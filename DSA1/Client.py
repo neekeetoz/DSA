@@ -38,8 +38,3 @@ while imageSize > 0:
 print("Изображение отправлено")
 file.close()
 client.close()
-
-
-
-
-
