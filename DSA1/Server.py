@@ -70,8 +70,3 @@ while True:
         break
 
 server.close()
-
-
-
-
-
